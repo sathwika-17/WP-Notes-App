@@ -1,0 +1,66 @@
+.add-note{
+    background:white;
+    padding:30px;
+    border-radius:15px;
+    margin-top:30px;
+    box-shadow:0 5px 15px rgba(0,0,0,.1);
+}
+
+.add-note h2{
+    margin-bottom:20px;
+    color:#2563eb;
+}
+
+.add-note form{
+    display:flex;
+    flex-direction:column;
+}
+
+.add-note input,
+.add-note textarea{
+
+    padding:14px;
+    margin-bottom:18px;
+
+    border:1px solid #ccc;
+    border-radius:8px;
+
+    outline:none;
+    font-size:15px;
+}
+
+.add-note input:focus,
+.add-note textarea:focus{
+
+    border-color:#2563eb;
+
+}
+
+.add-note textarea{
+
+    resize:none;
+
+}
+
+.add-note button{
+
+    background:#2563eb;
+    color:white;
+
+    border:none;
+
+    padding:14px;
+
+    border-radius:8px;
+
+    cursor:pointer;
+
+    transition:.3s;
+
+}
+
+.add-note button:hover{
+
+    background:#1d4ed8;
+
+}
