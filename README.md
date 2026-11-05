@@ -127,9 +127,3 @@ Open your browser and visit the URL displayed by Vite (commonly `http://localhos
 * Screenshots/ProfilePage.png
 
 ---
-
-## 👨‍💻 Author
-
-**Bushendra**
-
-If you found this project helpful, feel free to star the repository.
