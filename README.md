@@ -116,7 +116,13 @@ npm run dev
 Open your browser and visit the URL displayed by Vite (commonly `http://localhost:5173`).
 
 ---
+## Project Demonstration Video
 
+Watch the complete project explanation:
+
+[Click here to watch the video]
+(https://drive.google.com/file/d/1VZiHU_hFvhSrWquwDuC4BlihXNsoxIKL/view?usp=sharing)
+---
 ## 📸 Screenshots
 
 * Screenshots/LandingPage.png
